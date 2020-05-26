@@ -1,6 +1,6 @@
-# 黑客社學術訓練 錯誤回報
+# 黑客社學術訓練 錯誤 x 意見 x 想法 x 討論
 
-![](MyWaifu.jpg)
+<img src="MyWaifu.jpg" height="600px">
 
 ## 0415
 
