@@ -1,6 +1,6 @@
 # 黑客社學術訓練 錯誤 x 意見 x 想法 x 討論
 
-<img src="MyWaifu.jpg" height="595px" width="840px">
+<img src="MyWaifu.jpg" height="auto" width="auto" max-height="50%" max-width="50%">
 
 ## 0415
 
