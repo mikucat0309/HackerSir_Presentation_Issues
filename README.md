@@ -14,6 +14,6 @@
 
 ## 0527
 
-[綜合爪哇咖啡](https://hackmd.io/@mikucat/MiscJavaCafe)
+[爪哇](https://hackmd.io/@mikucat/MiscJavaCafe)
 
-[淺談ZGC](https://hackmd.io/@mikucat/ZGC)
+[ZGC摘要](https://hackmd.io/@mikucat/ZGC)
