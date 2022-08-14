@@ -1,10 +1,13 @@
-# 黑客社學術訓練 錯誤 x 意見 x 想法 x 討論
+# 黑客社學術訓練簡報
 
 ## 我婆鎮樓照
 
-<a href="https://www.pixiv.net/artworks/46132465">ミクcos | 白夜ReKi [Pixiv]</a>
+ミクcos | 白夜ReKi [Pixiv](https://www.pixiv.net/artworks/46132465)
 
-<img src="MyWaifu.jpg" alt="ミクcos | 白夜ReKi" height="auto" width="auto" max-height="50%" max-width="50%">
+<details>
+  <summary>NSFW</summary>
+  <img src="MyWaifu.jpg" alt="ミクcos | 白夜ReKi" width="300" >
+</details>
 
 ## 0415
 
